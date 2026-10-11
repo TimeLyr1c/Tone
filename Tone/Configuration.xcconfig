@@ -1,0 +1,3 @@
+// Local signing stays on this Mac. A clone still builds for Simulator without it.
+PRODUCT_BUNDLE_IDENTIFIER = com.example.Tone
+#include? "../Signing.local.xcconfig"
