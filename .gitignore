@@ -1,0 +1,15 @@
+.DS_Store
+.build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+.swiftpm/
+Signing.local.xcconfig
+
+# Local signing material and distributable build products
+*.ipa
+*.xcarchive/
+*.dSYM/
+*.p12
+*.p8
+*.mobileprovision
